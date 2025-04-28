@@ -1,9 +1,11 @@
-var builder = WebApplication.CreateBuilder(args);
+using lab_8.DataAccess;
+using lab_8.DataAccess;
 
-// Add services to the container.
+var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddSwaggerGen();
 builder.Services.AddControllers();
+builder.Services.AddScoped<NotesDbContext>();
 
 var app = builder.Build();
 
@@ -16,5 +18,3 @@ if (app.Environment.IsDevelopment())
 app.MapControllers();
 
 app.Run();
-
-

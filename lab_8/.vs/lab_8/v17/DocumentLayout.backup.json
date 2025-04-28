@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5208FC62-0043-435A-970B-F41333EA3D61}|lab_8.csproj|c:\\users\\779\\documents\\github\\labs_sem_6\\lab_8\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5208FC62-0043-435A-970B-F41333EA3D61}|lab_8.csproj|solutionrelative:controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5208FC62-0043-435A-970B-F41333EA3D61}|lab_8.csproj|c:\\users\\779\\documents\\github\\labs_sem_6\\lab_8\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5208FC62-0043-435A-970B-F41333EA3D61}|lab_8.csproj|solutionrelative:models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5208FC62-0043-435A-970B-F41333EA3D61}|lab_8.csproj|c:\\users\\779\\documents\\github\\labs_sem_6\\lab_8\\lab_8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5208FC62-0043-435A-970B-F41333EA3D61}|lab_8.csproj|solutionrelative:lab_8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5208FC62-0043-435A-970B-F41333EA3D61}|lab_8.csproj|c:\\users\\779\\documents\\github\\labs_sem_6\\lab_8\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5208FC62-0043-435A-970B-F41333EA3D61}|lab_8.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5208FC62-0043-435A-970B-F41333EA3D61}|lab_8.csproj|c:\\users\\779\\documents\\github\\labs_sem_6\\lab_8\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5208FC62-0043-435A-970B-F41333EA3D61}|lab_8.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5208FC62-0043-435A-970B-F41333EA3D61}|lab_8.csproj|c:\\users\\779\\documents\\github\\labs_sem_6\\lab_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5208FC62-0043-435A-970B-F41333EA3D61}|lab_8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5208FC62-0043-435A-970B-F41333EA3D61}|lab_8.csproj|c:\\users\\779\\documents\\github\\labs_sem_6\\lab_8\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5208FC62-0043-435A-970B-F41333EA3D61}|lab_8.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +34,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "Models\\Note.cs",
+              "ToolTip": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\Models\\Note.cs",
+              "RelativeToolTip": "Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T08:39:05.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lab_8",
+              "DocumentMoniker": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\lab_8.csproj",
+              "RelativeDocumentMoniker": "lab_8.csproj",
+              "ToolTip": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\lab_8.csproj",
+              "RelativeToolTip": "lab_8.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-28T08:37:03.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NotesController.cs",
+              "ToolTip": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "Controllers\\NotesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T11:09:44.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
@@ -34,24 +85,23 @@
               "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwBYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T08:57:34.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T08:57:34.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T21:12:19.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WeatherForecast.cs",
@@ -59,8 +109,7 @@
               "RelativeToolTip": "WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T16:00:18.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T16:00:18.641Z"
             }
           ]
         }
