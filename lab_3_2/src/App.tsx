@@ -16,7 +16,6 @@ function App() {
 
   const currentLanguage = i18n.language;
 
-  // Функция для получения правильной формы слова "клик"
   const getClickText = () => {
     if (currentLanguage === 'ru') {
       const lastDigit = count % 10;
