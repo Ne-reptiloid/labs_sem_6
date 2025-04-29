@@ -30,4 +30,4 @@ const Buttons: React.FC<ButtonsProps> = ({ count = 3 }) => {
   );
 };
 
-export default Buttons;  // Изменили на Buttons
+export default Buttons;
