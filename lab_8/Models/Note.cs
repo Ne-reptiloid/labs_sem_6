@@ -1,4 +1,4 @@
-﻿namespace lab_8.Models;
+﻿namespace MyNotes.Models;
 
 public class Note
 {

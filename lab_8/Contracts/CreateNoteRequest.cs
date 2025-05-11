@@ -1,4 +1,4 @@
-﻿namespace lab_8.Contracts
+﻿namespace MyNotes.Contracts
 {
     public record CreateNoteRequest(string Title, string Description)
     {

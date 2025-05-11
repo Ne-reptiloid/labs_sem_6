@@ -1,6 +1,6 @@
-﻿using lab_8.Models;
+﻿using MyNotes.Models;
 using Microsoft.EntityFrameworkCore;
-using lab_8.Model;
+//using lab_8.Model;
 
 namespace MyNotes.DataAccess;
 
@@ -17,6 +17,6 @@ public class NotesDbContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseNpgsql(_configuration.GetConnectionString("Database"));
+        optionsBuilder.UseSqlServer(_configuration.GetConnectionString("Database"));
     }
 }
