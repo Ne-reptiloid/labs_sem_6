@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5208FC62-0043-435A-970B-F41333EA3D61}|MyNotes.csproj|c:\\users\\779\\documents\\github\\labs_sem_6\\lab_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5208FC62-0043-435A-970B-F41333EA3D61}|MyNotes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5208FC62-0043-435A-970B-F41333EA3D61}|MyNotes.csproj|c:\\users\\779\\documents\\github\\labs_sem_6\\lab_8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5208FC62-0043-435A-970B-F41333EA3D61}|MyNotes.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5208FC62-0043-435A-970B-F41333EA3D61}|MyNotes.csproj|c:\\users\\779\\documents\\github\\labs_sem_6\\lab_8\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5208FC62-0043-435A-970B-F41333EA3D61}|MyNotes.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5208FC62-0043-435A-970B-F41333EA3D61}|MyNotes.csproj|c:\\users\\779\\documents\\github\\labs_sem_6\\lab_8\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5208FC62-0043-435A-970B-F41333EA3D61}|MyNotes.csproj|solutionrelative:controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5208FC62-0043-435A-970B-F41333EA3D61}|MyNotes.csproj|c:\\users\\779\\documents\\github\\labs_sem_6\\lab_8\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5208FC62-0043-435A-970B-F41333EA3D61}|MyNotes.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5208FC62-0043-435A-970B-F41333EA3D61}|MyNotes.csproj|c:\\users\\779\\documents\\github\\labs_sem_6\\lab_8\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5208FC62-0043-435A-970B-F41333EA3D61}|MyNotes.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5208FC62-0043-435A-970B-F41333EA3D61}|MyNotes.csproj|c:\\users\\779\\documents\\github\\labs_sem_6\\lab_8\\contracts\\createnoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,14 +51,6 @@
       "RelativeMoniker": "D:0:0:{5208FC62-0043-435A-970B-F41333EA3D61}|MyNotes.csproj|solutionrelative:lab_8.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5208FC62-0043-435A-970B-F41333EA3D61}|MyNotes.csproj|c:\\users\\779\\documents\\github\\labs_sem_6\\lab_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5208FC62-0043-435A-970B-F41333EA3D61}|MyNotes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5208FC62-0043-435A-970B-F41333EA3D61}|MyNotes.csproj|c:\\users\\779\\documents\\github\\labs_sem_6\\lab_8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5208FC62-0043-435A-970B-F41333EA3D61}|MyNotes.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5208FC62-0043-435A-970B-F41333EA3D61}|MyNotes.csproj|c:\\users\\779\\documents\\github\\labs_sem_6\\lab_8\\mynotes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5208FC62-0043-435A-970B-F41333EA3D61}|MyNotes.csproj|solutionrelative:mynotes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -66,85 +66,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-28T11:25:48.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NotesController.cs",
-              "DocumentMoniker": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\Controllers\\NotesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\NotesController.cs",
-              "ToolTip": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\Controllers\\NotesController.cs",
-              "RelativeToolTip": "Controllers\\NotesController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCsAAABgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T08:47:32.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-07T20:26:20.485Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateNoteRequest.cs",
-              "DocumentMoniker": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\Contracts\\CreateNoteRequest.cs",
-              "RelativeDocumentMoniker": "Contracts\\CreateNoteRequest.cs",
-              "ToolTip": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\Contracts\\CreateNoteRequest.cs",
-              "RelativeToolTip": "Contracts\\CreateNoteRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T08:51:57.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GetNotesRequest.cs",
-              "DocumentMoniker": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\Contracts\\GetNotesRequest.cs",
-              "RelativeDocumentMoniker": "Contracts\\GetNotesRequest.cs",
-              "ToolTip": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\Contracts\\GetNotesRequest.cs",
-              "RelativeToolTip": "Contracts\\GetNotesRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T09:20:35.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GetNotesResponse.cs",
-              "DocumentMoniker": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\Contracts\\GetNotesResponse.cs",
-              "RelativeDocumentMoniker": "Contracts\\GetNotesResponse.cs",
-              "ToolTip": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\Contracts\\GetNotesResponse.cs",
-              "RelativeToolTip": "Contracts\\GetNotesResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T08:52:01.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "NoteDto.cs",
               "DocumentMoniker": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\Contracts\\NoteDto.cs",
               "RelativeDocumentMoniker": "Contracts\\NoteDto.cs",
@@ -152,12 +74,61 @@
               "RelativeToolTip": "Contracts\\NoteDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T08:52:03.745Z",
+              "WhenOpened": "2025-05-07T08:52:03.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T08:52:14.728Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "GetNotesResponse.cs",
+              "DocumentMoniker": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\Contracts\\GetNotesResponse.cs",
+              "RelativeDocumentMoniker": "Contracts\\GetNotesResponse.cs",
+              "ToolTip": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\Contracts\\GetNotesResponse.cs",
+              "RelativeToolTip": "Contracts\\GetNotesResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T08:52:01.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetNotesRequest.cs",
+              "DocumentMoniker": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\Contracts\\GetNotesRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\GetNotesRequest.cs",
+              "ToolTip": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\Contracts\\GetNotesRequest.cs",
+              "RelativeToolTip": "Contracts\\GetNotesRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:20:35.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NotesController.cs",
+              "ToolTip": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "Controllers\\NotesController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T08:47:32.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "NotesDbContext.cs",
               "DocumentMoniker": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\DataAccess\\NotesDbContext.cs",
               "RelativeDocumentMoniker": "DataAccess\\NotesDbContext.cs",
@@ -165,12 +136,61 @@
               "RelativeToolTip": "DataAccess\\NotesDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T08:52:11.413Z",
+              "WhenOpened": "2025-05-07T08:52:11.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-28T11:25:40.167Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-28T11:25:48.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateNoteRequest.cs",
+              "DocumentMoniker": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\Contracts\\CreateNoteRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\CreateNoteRequest.cs",
+              "ToolTip": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\Contracts\\CreateNoteRequest.cs",
+              "RelativeToolTip": "Contracts\\CreateNoteRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T08:51:57.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-07T20:26:20.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Note.cs",
               "DocumentMoniker": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\Models\\Note.cs",
               "RelativeDocumentMoniker": "Models\\Note.cs",
@@ -178,12 +198,11 @@
               "RelativeToolTip": "Models\\Note.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T08:52:09.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T08:52:09.696Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "lab_8.http",
               "DocumentMoniker": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\lab_8.http",
               "RelativeDocumentMoniker": "lab_8.http",
@@ -191,21 +210,7 @@
               "RelativeToolTip": "lab_8.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-05-01T18:13:09.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T08:52:14.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T18:13:09.268Z"
             },
             {
               "$type": "Document",
@@ -218,19 +223,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-04-28T08:37:03.694Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\779\\Documents\\GitHub\\labs_sem_6\\lab_8\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-28T11:25:40.167Z",
-              "EditorCaption": ""
             }
           ]
         }

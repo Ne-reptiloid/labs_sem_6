@@ -1,4 +1,5 @@
 import "bootstrap/dist/css/bootstrap.min.css";
+import moment from "moment";
 
 function Note({title, description, createdAt}) {
     return (
@@ -12,7 +13,7 @@ function Note({title, description, createdAt}) {
           </div>
           <hr className="my-2" />
           <div className="card-footer">
-            {createdAt}
+            {moment(createdAt).format("DD/MM/YYYY h:mm:ss")}
           </div>
           </div>
     );
